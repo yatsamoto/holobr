@@ -1,0 +1,196 @@
+body {
+    background-color: rgb(233, 233, 233);
+}
+
+.secao {
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    box-shadow: 5px 8px 20px #31cafe;
+}
+
+.paragrafo {
+    font-size: 20px;
+
+}
+
+h1,
+h2,
+h3 {
+    font-size: 30px;
+    font-family: arial;
+}
+
+.secao-watame {
+    background-image: url('img/wata.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+    background-position: right;
+    background-color: #31cafe;
+}
+
+.secao-lapras {
+    background-image: url('img/lapras.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+.secao-sora {
+    background-image: url('img/sora.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #31cafe;
+    background-attachment: fixed;
+
+}
+
+/* seção topo*/
+.secao-topo {
+    text-align: center;
+
+}
+
+.secao-topo img {
+    width: 450px;
+}
+
+.secao-background {
+    background-image: url('img/bg.jpg');
+    margin: 0px auto;
+    padding: 40px auto;
+    background-color: aqua;
+    border: 8px solid #7bc2ee;
+    border-radius: 30px;
+    background-size: cover;
+}
+
+.secao-topo a {
+    background-color: white;
+    font-family: verdana;
+    color: brown;
+    margin: 10px;
+    padding: 5px;
+    font-weight: bold;
+    border: 5px solid white;
+    border-radius: 50px;
+}
+
+/*seção sobre */
+.secao-sobre {
+
+    margin: 10px auto;
+}
+
+.secao-sobre p {
+    font-family: verdana;
+    width: 700px;
+    font-style: normal;
+    text-align: justify;
+    margin: 10px auto;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-shadow: 2px 1px 5px black;
+}
+
+.secao-sobre span {
+    color: rgb(206, 224, 35);
+}
+
+.secao-sobre h1 {
+    color: rgb(0, 0, 0);
+    font-family: tahoma;
+    text-decoration: underline;
+
+}
+
+.secao-sobre img {
+    width: 350px;
+    border: 10px solid black;
+    border-radius: 5px;
+}
+
+/* seção hololive*/
+.secao-hololive {
+    margin: 10px auto;
+}
+
+.secao-hololive p {
+    font-family: verdana;
+    width: 700px;
+    font-style: normal;
+    text-align: justify;
+    margin: 10px auto;
+    font-weight: bold;
+    color: rgb(23, 43, 36);
+    padding: 20px;
+    background-color: rgb(150, 198, 252);
+}
+
+.secao-hololive img {
+    width: 400px;
+
+
+}
+
+.secao-hololive h2 {
+    color: rgb(99, 76, 228);
+    font-family: tahoma;
+    text-decoration: underline;
+}
+
+/* seção discord*/
+.secao-discord {
+    margin: 10px auto;
+}
+
+.secao-discord img {
+    width: 300px;
+    border: 5px solid rgb(66, 17, 17);
+    border-radius: 5px;
+
+
+}
+
+.secao-discord {
+
+    margin: 10px auto;
+}
+
+.secao-discord p {
+    font-family: verdana;
+    width: 700px;
+    font-style: normal;
+    text-align: justify;
+    margin: 10px auto;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-shadow: 2px 1px 5px black;
+
+}
+
+.secao-discord h2 {
+    color: rgb(23, 43, 36);
+    font-family: tahoma;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.server {
+    height: 300px;
+    margin: 10px;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+}
+
+.secao-discord a {
+    color: rgb(43, 216, 43);
+}
